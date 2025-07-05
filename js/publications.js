@@ -10,7 +10,7 @@ const publications = [
     journal: "<span class='special-font1'>Neural Networks (IF: 6.0), Vol. 189, pp. 107564, Year: 2025"
   },{
     title: "<span class='special-font'>&nbsp;&nbsp;&nbsp;Design and analysis of quaternion-valued neural networks for storing and retrieving color images",
-    link: "https://doi.org/10.1016/j.ins.2024.121773",
+    link: "https://doi.org/10.1007/s12190-025-02485-1",
     journal: "<span class='special-font1'>Journal of Applied Mathematics and Computing (IF: 2.7), Vol. -, pp. -, Year: 2025"
   },{
     title: "<span class='special-font'>&nbsp;&nbsp;&nbsp;Global Mittag-Leffler stability and synchronization of fractional-order Clifford-valued delayed neural networks with reaction-diffusion terms and its application to image encryption",
