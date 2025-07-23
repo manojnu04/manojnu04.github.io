@@ -1,6 +1,12 @@
 // 🗃️ List of Publications
 const publications = [
   {
+    title: "<span class='special-font'>&nbsp;&nbsp;&nbsp;Further results on global stability of Clifford-valued neural networks subject to time-varying delays",
+    link: "https://doi.org/10.1016/j.neucom.2025.130886",
+    authors: "<span class='special-font1'>Authors: <b> Manoj Nagappan</b>, Sriraman Ramalingam, Gurusamy R., Yilun Shang",
+    journal: "<span class='special-font1'>Journal Name: Neurocomputing (IF: 6.5)",
+    details: "<span class='special-font1'>Volume: 651, Pages: 130886, Year: 2025"
+  },{
     title: "<span class='special-font'>&nbsp;&nbsp;&nbsp;Event-triggered control for exponential synchronization of reaction–diffusion fractional-order Clifford-valued delayed neural networks and its application to image encryption",
     link: "https://doi.org/10.1016/j.neucom.2025.130604",
     authors: "<span class='special-font1'>Authors: Sriraman Ramalingam, <b> Manoj Nagappan</b>, Agarwal Praveen, Vigo-Aguiar Jesús, Jain Shilpi",
